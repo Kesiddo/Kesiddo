@@ -55,7 +55,7 @@
 }
 </style>
 
-# <span class="animated-title glowing-text"><img src="https://cdn-icons-png.flaticon.com/512/2022/2022640.png" width="35" height="35" alt="Wave"/> Hi there! I'm Malaya Chesedh S. Morales</span>
+# <span class="animated-title glowing-text">👋 Hi there! I'm Malaya Chesedh S. Morales</span>
 
 ### Front-End Developer | Laravel Enthusiast | UI-Focused Web Developer
 
@@ -75,14 +75,14 @@
 
 <table>
 <tr>
-<td align="center" width="200"><span class="stat-card"><img src="https://cdn-icons-png.flaticon.com/512/910/910147.png" width="20" height="20" alt="Laptop"/> 90+ Projects</span></td>
-<td align="center" width="200"><span class="stat-card"><img src="https://cdn-icons-png.flaticon.com/512/1995/1995461.png" width="20" height="20" alt="Target"/> 100+ Skills</span></td>
-<td align="center" width="200"><span class="stat-card"><img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="20" height="20" alt="Star"/> 500+ Followers</span></td>
+<td align="center" width="200"><span class="stat-card">💻 90+ Projects</span></td>
+<td align="center" width="200"><span class="stat-card">🎯 100+ Skills</span></td>
+<td align="center" width="200"><span class="stat-card">⭐ 500+ Followers</span></td>
 </tr>
 <tr>
-<td align="center" width="200"><span class="stat-card"><img src="https://cdn-icons-png.flaticon.com/512/1995/1995473.png" width="20" height="20" alt="Rocket"/> 50+ Contributions</span></td>
-<td align="center" width="200"><span class="stat-card"><img src="https://cdn-icons-png.flaticon.com/512/1995/1995460.png" width="20" height="20" alt="Growth"/> Growing Daily</span></td>
-<td align="center" width="200"><span class="stat-card"><img src="https://cdn-icons-png.flaticon.com/512/1995/1995436.png" width="20" height="20" alt="Idea"/> Always Learning</span></td>
+<td align="center" width="200"><span class="stat-card">🚀 50+ Contributions</span></td>
+<td align="center" width="200"><span class="stat-card">📈 Growing Daily</span></td>
+<td align="center" width="200"><span class="stat-card">💡 Always Learning</span></td>
 </tr>
 </table>
 
@@ -111,7 +111,7 @@ I'm a passionate **Front-End Developer** focused on building responsive, user-fr
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/924/924514.png" width="25" height="25" alt="Tools" /> Tech Stack
 
-### 💻 Languages & Frameworks
+### <img src="https://cdn-icons-png.flaticon.com/512/910/910147.png" width="22" height="22" alt="Laptop"/> Languages & Frameworks
 
 <table>
   <tr>
@@ -184,7 +184,7 @@ I'm a passionate **Front-End Developer** focused on building responsive, user-fr
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/1995/1995505.png" width="25" height="25" alt="Projects" /> Projects & Contributions
 
-### ✨ Highlights
+### <img src="https://cdn-icons-png.flaticon.com/512/1995/1995516.png" width="22" height="22" alt="Sparkle"/> Highlights
 
 <div align="left">
 
@@ -199,7 +199,7 @@ I'm a passionate **Front-End Developer** focused on building responsive, user-fr
 
 ---
 
-## 📈 GitHub Activity
+## <img src="https://cdn-icons-png.flaticon.com/512/1995/1995460.png" width="25" height="25" alt="Growth"/> GitHub Activity
 
 <div align="center">
 
@@ -224,36 +224,6 @@ I'm a passionate **Front-End Developer** focused on building responsive, user-fr
 - <img src="https://cdn-icons-png.flaticon.com/512/1373/1373996.png" width="18" height="18" alt="Phone"/> **Responsive Web Applications**
 
 </div>
-
----
-
-## 💻 Coding Activity & Performance
-
-<div align="center">
-
-| Metric | Progress |
-|--------|----------|
-| **Code Quality** | ████████░ 80% |
-| **Project Completion Rate** | █████████ 95% |
-| **Team Collaboration** | ████████░ 85% |
-| **Innovation & Creativity** | █████████ 90% |
-| **Documentation** | ████████░ 85% |
-
-</div>
-
----
-
-## <img src="https://cdn-icons-png.flaticon.com/512/2995/2995637.png" width="25" height="25" alt="Philosophy" /> Development Philosophy
-
-```javascript
-while (learning) {
-    build();
-    improve();
-    debug();
-    design();
-    repeat();
-}
-```
 
 ---
 
@@ -283,7 +253,7 @@ while (learning) {
 
 ---
 
-## 🚀 Call to Action
+## <img src="https://cdn-icons-png.flaticon.com/512/1995/1995473.png" width="25" height="25" alt="Rocket"/> Call to Action
 
 <div align="center">
 
@@ -292,9 +262,9 @@ while (learning) {
 </p>
 
 **Open to:**
-- <img src="https://cdn-icons-png.flaticon.com/512/1995/1995476.png" width="18" height="18" alt="Briefcase"/> Freelance Projects
-- <img src="https://cdn-icons-png.flaticon.com/512/1995/1995471.png" width="18" height="18" alt="Handshake"/> Collaborations
-- <img src="https://cdn-icons-png.flaticon.com/512/1995/1995464.png" width="18" height="18" alt="Graduation"/>  Learning
+- 💼 Freelance Projects
+- 🤝 Collaborations
+- 🎓 Learning
 
 <p>
   <a href="https://github.com/malayacmalesed" target="_blank" style="margin: 0 10px;">
@@ -304,4 +274,3 @@ while (learning) {
 
 </div>
 
----
