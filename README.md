@@ -6,8 +6,6 @@
 
 <sub>Building responsive, user-friendly, and maintainable web applications</sub>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=malayacmalesed&color=blue&style=flat)](https://github.com/malayacmalesed)
-
 </div>
 
 ---
